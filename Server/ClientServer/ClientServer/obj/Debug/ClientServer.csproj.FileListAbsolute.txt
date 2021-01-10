@@ -1,0 +1,8 @@
+C:\Users\user\documents\visual studio 2015\Projects\ClientServer\ClientServer\bin\Debug\ClientServer.exe.config
+C:\Users\user\documents\visual studio 2015\Projects\ClientServer\ClientServer\bin\Debug\ClientServer.exe
+C:\Users\user\documents\visual studio 2015\Projects\ClientServer\ClientServer\bin\Debug\ClientServer.pdb
+C:\Users\user\documents\visual studio 2015\Projects\ClientServer\ClientServer\obj\Debug\ClientServer.exe
+C:\Users\user\documents\visual studio 2015\Projects\ClientServer\ClientServer\obj\Debug\ClientServer.pdb
+D:\Server_Client Version\Version 1\Server\ClientServer\ClientServer\bin\Debug\ClientServer.exe.config
+D:\Server_Client Version\Version 1\Server\ClientServer\ClientServer\obj\Debug\ClientServer.exe
+D:\Server_Client Version\Version 1\Server\ClientServer\ClientServer\obj\Debug\ClientServer.pdb

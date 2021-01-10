@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\ClientServer\ClienttoServer\bin\Debug\ClienttoServer.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ClientServer\ClienttoServer\bin\Debug\ClienttoServer.exe
+c:\users\user\documents\visual studio 2015\Projects\ClientServer\ClienttoServer\bin\Debug\ClienttoServer.pdb
+c:\users\user\documents\visual studio 2015\Projects\ClientServer\ClienttoServer\obj\Debug\ClienttoServer.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ClientServer\ClienttoServer\obj\Debug\ClienttoServer.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\ClientServer\ClienttoServer\obj\Debug\ClienttoServer.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ClientServer\ClienttoServer\obj\Debug\ClienttoServer.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ClientServer\ClienttoServer\obj\Debug\ClienttoServer.exe
+c:\users\user\documents\visual studio 2015\Projects\ClientServer\ClienttoServer\obj\Debug\ClienttoServer.pdb

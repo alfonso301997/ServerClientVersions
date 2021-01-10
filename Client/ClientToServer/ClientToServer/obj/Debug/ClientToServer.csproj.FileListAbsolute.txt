@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\ClientToServer\ClientToServer\bin\Debug\ClientToServer.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ClientToServer\ClientToServer\bin\Debug\ClientToServer.exe
+c:\users\user\documents\visual studio 2015\Projects\ClientToServer\ClientToServer\bin\Debug\ClientToServer.pdb
+c:\users\user\documents\visual studio 2015\Projects\ClientToServer\ClientToServer\obj\Debug\ClientToServer.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\ClientToServer\ClientToServer\obj\Debug\ClientToServer.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ClientToServer\ClientToServer\obj\Debug\ClientToServer.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ClientToServer\ClientToServer\obj\Debug\ClientToServer.exe
+c:\users\user\documents\visual studio 2015\Projects\ClientToServer\ClientToServer\obj\Debug\ClientToServer.pdb
+D:\Server_Client Version\Version 1\Client\ClientToServer\ClientToServer\bin\Debug\ClientToServer.exe.config
+D:\Server_Client Version\Version 1\Client\ClientToServer\ClientToServer\obj\Debug\ClientToServer.exe
+D:\Server_Client Version\Version 1\Client\ClientToServer\ClientToServer\obj\Debug\ClientToServer.pdb
